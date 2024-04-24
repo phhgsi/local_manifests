@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="device/oneplus/oscar" path="device/oneplus/oscar" remote="github" revision="fourteen" clone-depth="1" />
-  <project name="device/oneplus/sm6375-common" path="device/oneplus/sm6375-common" remote="fourteen" revision="main" clone-depth="1" />
+  <project name="device/oneplus/sm6375-common" path="device/oneplus/sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
   <project name="kernel/oneplus/sm6375" path="kernel/oneplus/sm6375" remote="github" revision="holi-17" clone-depth="1" />
   <project name="vendor/oneplus/oscar" path="vendor/oneplus/oscar" remote="github" revision="fourteen" clone-depth="1" />
   <project name="vendor/oneplus/sm6375-common" path="vendor/oneplus/sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
