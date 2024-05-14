@@ -1,7 +1,7 @@
 To initialize your local repository use
 ---------------------------------------
 
-    git clone https://github.com/phhgsi/local_manifests.git -b rising .repo/local_manifests
+    git clone https://github.com/phhgsi/local_manifests.git -b everest.repo/local_manifests
     
 
 Then to sync up:
