@@ -2,7 +2,7 @@
 <manifest>
   <project path="device/oneplus/oscar" name="derpfestoscar/device_oneplus_oscar" remote="github" revision="fourteen" clone-depth="1" />
   <project path="device/oneplus/sm6375-common" name="phhgsi/device_oneplus_sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
-  <project path="kernel/oneplus/sm6375" name="Tonklaistonton/android_kernel_oneplus_sm6375" remote="github" revision="holi-17" clone-depth="1" />
+  <project path="kernel/oneplus/sm6375" name="phhgsi/android_kernel_oneplus_sm6375" remote="github" revision="new" clone-depth="1" />
   <project path="vendor/oneplus/oscar" name="phhgsi/vendor_oneplus_oscar" remote="github" revision="fourteen" clone-depth="1" />
   <project path="vendor/oneplus/sm6375-common" name="phhgsi/vendor_oneplus_sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
   <project path="hardware/oplus" name="PixelOS-Devices/hardware_oplus" remote="github" revision="fourteen-qpr2-holi" clone-depth="1" />
