@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
   <project path="device/oneplus/oscar" name="phhgsi/device_oneplus_oscar" remote="github" revision="infinity" clone-depth="1" />
   <project path="device/oneplus/sm6375-common" name="phhgsi/device_oneplus_sm6375-common" remote="github" revision="infinity" clone-depth="1" />
   <project path="kernel/oneplus/sm6375" name="phhgsi/android_kernel_oneplus_sm6375" remote="github" revision="holi-17" clone-depth="1" />
