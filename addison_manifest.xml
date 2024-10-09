@@ -10,5 +10,4 @@
   <project path="vendor/oplus/lib" name="phhgsi/oplus_camera_lib" remote="github" revision="fourteen" clone-depth="1" />
   <project path="vendor/oplus/camera" name="pjgowtham/proprietary_vendor_oplus_camera.git" remote="gitlab" revision="lineage-21-op12" clone-depth="1" />
   <!-- <project name="hardware/google/pixel/kernel_headers" /> -->
-  <project path="vendor/derp" name="selfmusing/vendor_derp.git" remote="github" revision="14" clone-depth="1" />
 </manifest>
